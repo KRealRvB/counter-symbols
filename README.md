@@ -1,7 +1,7 @@
 Hello, HubGit!
 ----
 
-This program can calculate the count of symbols in text.
-Programming language is **Python**
+This program can calculate the count of symbols in a text.
+Programming language - **Python**
 ----
-I would like add validation, accuracy, and more variability
+I'm planning to add validation, increase accuracy and variability
